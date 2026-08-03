@@ -41,4 +41,4 @@ This dashboard helps businesses monitor customer behavior, identify high-value c
 
 Below is a preview of the dashboard:
 
-![Customer Behavior Dashboard](Screenshot%202026-08-03%20111450.png)
+![Customer Behavior Dashboard]([Screenshot%202026-08-03%20111450.png](https://github.com/jmb786/powerbi-customer-behavior-analysis/blob/main/Screenshot%202026-08-03%20111450.png))

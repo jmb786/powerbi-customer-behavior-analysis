@@ -2,26 +2,43 @@
 
 ## Project Overview
 
-This project is an interactive **Customer Behavior Dashboard** built to analyze customer purchasing patterns, sales performance, and revenue trends. The dashboard provides key business insights through visualizations and KPIs, helping stakeholders understand customer behavior and make data-driven decisions.
+This project is an interactive **Customer Behavior Dashboard** built using **Power BI** to analyze customer purchasing patterns, sales performance, and revenue trends. The dashboard provides key business insights through interactive visualizations and KPIs, enabling stakeholders to make data-driven decisions.
 
-### Key Features
-- Displays total number of customers, average purchase amount, and average review rating.
-- Analyzes customer distribution based on subscription status.
+## Key Features
+
+- Displays key metrics, including:
+  - Total number of customers
+  - Average purchase amount
+  - Average review rating
+- Analyzes customer distribution by subscription status.
 - Compares revenue and sales across different product categories.
 - Examines revenue and sales by customer age groups.
-- Includes interactive filters for subscription status, gender, product category, and shipping type for dynamic analysis.
+- Provides interactive filters for:
+  - Subscription Status
+  - Gender
+  - Product Category
+  - Shipping Type
 
-### Dashboard Insights
-- Track customer engagement and subscription trends.
+## Dashboard Insights
+
+- Monitor customer engagement and subscription trends.
 - Identify top-performing product categories by sales and revenue.
 - Analyze purchasing behavior across different age groups.
 - Explore customer segments using interactive slicers.
 
-### Tools Used
-- **Power BI**
+## Tools Used
+
+- Power BI
 - Data Modeling
 - DAX Measures
 - Interactive Visualizations
 
-### Business Value
-This dashboard enables businesses to monitor customer behavior, identify high-value customer segments, evaluate product performance, and support strategic decisions aimed at improving sales and customer satisfaction.
+## Business Value
+
+This dashboard helps businesses monitor customer behavior, identify high-value customer segments, evaluate product performance, and support strategic decision-making to improve sales and customer satisfaction.
+
+## Dashboard Preview
+
+Below is a preview of the dashboard:
+
+![Customer Behavior Dashboard](Screenshot%202026-08-03%20111450.png)
